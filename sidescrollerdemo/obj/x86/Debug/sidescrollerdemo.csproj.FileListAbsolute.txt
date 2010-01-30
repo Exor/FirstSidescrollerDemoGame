@@ -1,0 +1,11 @@
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\sidescrollerdemo.exe
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\sidescrollerdemo.pdb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\XNA\sidescrollerdemo\sidescrollerdemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNA\sidescrollerdemo\sidescrollerdemo\obj\x86\Debug\sidescrollerdemo.exe
+C:\XNA\sidescrollerdemo\sidescrollerdemo\obj\x86\Debug\sidescrollerdemo.pdb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\character.xnb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\platform.xnb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\splashscreenlose.xnb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\splashscreenstart.xnb
+C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\enemy.xnb
