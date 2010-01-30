@@ -9,3 +9,14 @@ C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\platform.xnb
 C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\splashscreenlose.xnb
 C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\splashscreenstart.xnb
 C:\XNA\sidescrollerdemo\sidescrollerdemo\bin\x86\Debug\Content\enemy.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\Content\character.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\Content\platform.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\Content\splashscreenlose.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\Content\splashscreenstart.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\Content\enemy.xnb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\sidescrollerdemo.exe
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\bin\x86\Debug\sidescrollerdemo.pdb
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\obj\x86\Debug\sidescrollerdemo.exe
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\obj\x86\Debug\sidescrollerdemo.pdb

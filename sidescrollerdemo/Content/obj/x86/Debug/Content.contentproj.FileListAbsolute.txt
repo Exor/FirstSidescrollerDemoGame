@@ -1,1 +1,2 @@
 C:\XNA\sidescrollerdemo\sidescrollerdemo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jon Slabaugh\XNA\FirstSidescrollerDemoGame\sidescrollerdemo\Content\obj\x86\Debug\ResolveAssemblyReference.cache

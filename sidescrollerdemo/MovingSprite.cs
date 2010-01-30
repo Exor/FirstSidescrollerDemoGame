@@ -29,11 +29,11 @@ namespace sidescrollerdemo
 
         internal void CalculateGravityPhysics(float elapsed)
         {
-            if (!isOnGround)
-            {//calculate effect of gravity
+            //if (!isOnGround)
+            //{//calculate effect of gravity
                 verticalVelocity += verticalGravity * elapsed;
                 currentPOS.Y += verticalVelocity * elapsed;
-            }
+            //}
         }
     }
 }

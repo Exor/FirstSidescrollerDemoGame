@@ -16,10 +16,12 @@ namespace sidescrollerdemo
             viewport = new Vector2(viewportWidth, viewportHeight);
             CreatePlayer(0, 500);
             CreatePlatform(0, 550);
-            CreatePlatform(300, 400);
-            CreatePlatform(400, 300);
-            CreatePlatform(500, 200);
-            CreateEnemy(220, 475);
+            CreatePlatform(200, 550);
+            CreatePlatform(400, 550);
+          //CreatePlatform(600, 550);
+            CreatePlatform(500, 450);
+            CreatePlatform(400, 350);
+            CreateEnemy(400, 475);
         }
     }
 }
